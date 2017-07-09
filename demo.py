@@ -9,7 +9,7 @@ IMAGE_PATH = "demo.jpg"
 p = Perspector(IMAGE_PATH)
 preview(p.outline())
 preview(p.transform())
-# p.write('output.jpg')
+# p.write('demo_result.jpg')
 
 
 ####################################
